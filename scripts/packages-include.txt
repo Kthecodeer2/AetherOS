@@ -1,0 +1,54 @@
+ubuntu-desktop-minimal
+# Drivers & firmware
+linux-firmware
+
+# Windows compatibility
+wine-stable
+wine64
+winetricks
+cabextract
+
+# DXVK & Vulkan support
+mesa-vulkan-drivers
+mesa-utils
+vulkan-tools
+vulkan-validationlayers
+
+# Gaming / compatibility helpers
+dxvk
+vkd3d
+
+# GUI essentials
+xwayland
+fonts-liberation
+fonts-cantarell
+
+# Audio / multimedia
+pipewire
+pipewire-audio
+pipewire-pulse
+wireplumber
+
+# Networking
+network-manager
+
+# Bootloader & live tools
+grub-pc-bin
+grub-efi-amd64-bin
+systemd-sysv
+live-boot
+casper
+
+# Filesystems
+ntfs-3g
+exfatprogs
+
+# Misc utilities
+lsb-release
+sudo
+curl
+wget
+git
+
+# Terminal & shell
+gnome-terminal

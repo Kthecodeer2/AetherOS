@@ -1,0 +1,11 @@
+thunderbird
+libreoffice*
+transmission-gtk
+evince
+cheese
+simple-scan
+shotwell
+totem
+rhythmbox
+remmina
+snapd 
